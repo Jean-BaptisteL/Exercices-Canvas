@@ -12,14 +12,14 @@ house.fill();
 
 house.beginPath();
 house.arc(75,225,25,0,Math.PI*2,true);
-house.strokeStyle = "#747474";
-house.fillStyle = "#CDCDCD";
+house.strokeStyle = '#747474';
+house.fillStyle = '#CDCDCD';
 house.fill();
 house.stroke();
 
 house.beginPath();
 house.arc(325,225,25,0,Math.PI*2,true);
-house.strokeStyle = "#747474";
-house.fillStyle = "#CDCDCD";
+house.strokeStyle = '#747474';
+house.fillStyle = '#CDCDCD';
 house.fill();
 house.stroke();
